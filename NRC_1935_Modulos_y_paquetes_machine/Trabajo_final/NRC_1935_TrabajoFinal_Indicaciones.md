@@ -23,4 +23,4 @@ El participante deberá seleccionar el contexto y definir el problema específic
 
 FUENTE DE DATOS: https://www.kaggle.com/datasets  
 
-* Requerimientos: **
+**Requerimientos:**
