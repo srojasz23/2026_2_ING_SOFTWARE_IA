@@ -4,3 +4,5 @@ NRC_1935_Modulos_y_paquetes_machine (https://github.com/srojasz23/2026_2_ING_SOF
 NRC_19356_Fundamentos_algoritmia_ia  
 NRC_19357_Machine_deep_learning  
 NRC_19366_IA_with_machine_learning  
+NRC_19368_Seminario  
+NRC_21822_Rev_cuadernos_informe  
