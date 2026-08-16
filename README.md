@@ -1,1 +1,6 @@
 # 2026_2_ING_SOFTWARE_IA
+
+NRC_1935_Modulos_y_paquetes_machine   
+NRC_19356_Fundamentos_algoritmia_ia
+NRC_19357_Machine_deep_learning
+NRC_19366_IA_with_machine_learning
