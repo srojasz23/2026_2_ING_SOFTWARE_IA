@@ -19,8 +19,17 @@ El proyecto podrá aplicarse a diferentes áreas, entre ellas:
 * Turismo.
 * Tecnología.
 * Redes sociales u otros dominios pertinentes.
-El participante deberá seleccionar el contexto y definir el problema específico que será abordado mediante Machine Learning.
+Deberá seleccionar el contexto y definir el problema específico que será abordado mediante Machine Learning.
 
 FUENTE DE DATOS: https://www.kaggle.com/datasets  
 
 **Requerimientos:**
+* Utilizar Pandas y NumPy para la lectura, exploración, transformación y preparación de los datos.
+* Realizar un análisis que permita identificar características, patrones, relaciones o tendencias relevantes del dataset.
+* Utilizar Matplotlib y/o Seaborn para representar gráficamente los resultados del análisis.
+* Aplicar las técnicas de preprocesamiento y validación necesarias para el modelo seleccionado.
+* Evaluar el desempeño del modelo mediante métricas apropiadas al problema.
+* Implementar un modelo de Deep Learning utilizando TensorFlow/Keras o PyTorch, siempre que las características del problema y dataset permitan su aplicación.
+* Si el dataset contiene información textual relevante, aplicar técnicas de procesamiento de lenguaje natural utilizando NLTK.
+
+* *Entregables* *
