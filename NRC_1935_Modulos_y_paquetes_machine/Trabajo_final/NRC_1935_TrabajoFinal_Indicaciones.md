@@ -52,15 +52,15 @@ FUENTE DE DATOS: https://www.kaggle.com/datasets
 2. PPT (Presentación):
 El participante deberá elaborar una presentación en PowerPoint para sustentar el proyecto.
 La presentación deberá mostrar, como mínimo:
-* Problema.
-* Objetivos.
-* Dataset.
-* Metodología.
-* Análisis de datos.
-* Visualizaciones.
-* Modelos utilizados.
-* Resultados.
-* Comparación, cuando corresponda.
-* Conclusiones.
+   * Problema.
+   * Objetivos.
+   * Dataset.
+   * Metodología.
+   * Análisis de datos.
+   * Visualizaciones.
+   * Modelos utilizados.
+   * Resultados.
+   * Comparación, cuando corresponda.
+   * Conclusiones.
 
 La presentación deberá priorizar resultados, gráficos y conclusiones, evitando incluir grandes bloques de código.
