@@ -1,6 +1,6 @@
-## TRABAJO FINAL_ PROYECTO INTEGRADOR
+# TRABAJO FINAL_ PROYECTO INTEGRADOR
 
-# Consideraciones:  
+## Consideraciones:  
 El trabajo final consiste en desarrollar una solución de Machine Learning aplicada a un problema real o contextualizado, utilizando un conjunto de datos obtenido de una fuente abierta. El trabajo deberá demostrar la capacidad para preparar datos, analizarlos, visualizarlos, construir modelos, evaluar resultados y comunicar los hallazgos obtenidos. La selección del problema, dataset, técnicas y modelos deberá ser justificada por el participante.  
 
 El proyecto podrá aplicarse a diferentes áreas, entre ellas:
@@ -32,4 +32,4 @@ FUENTE DE DATOS: https://www.kaggle.com/datasets
 * Implementar un modelo de Deep Learning utilizando TensorFlow/Keras o PyTorch, siempre que las características del problema y dataset permitan su aplicación.
 * Si el dataset contiene información textual relevante, aplicar técnicas de procesamiento de lenguaje natural utilizando NLTK.
 
-### *Entregables* *
+### *Entregables* 
