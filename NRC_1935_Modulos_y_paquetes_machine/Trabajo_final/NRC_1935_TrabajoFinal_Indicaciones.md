@@ -23,7 +23,7 @@ Deberá seleccionar el contexto y definir el problema específico que será abor
 
 FUENTE DE DATOS: https://www.kaggle.com/datasets  
 
-###**Requerimientos:**
+### **Requerimientos:**
 * Utilizar Pandas y NumPy para la lectura, exploración, transformación y preparación de los datos.
 * Realizar un análisis que permita identificar características, patrones, relaciones o tendencias relevantes del dataset.
 * Utilizar Matplotlib y/o Seaborn para representar gráficamente los resultados del análisis.
