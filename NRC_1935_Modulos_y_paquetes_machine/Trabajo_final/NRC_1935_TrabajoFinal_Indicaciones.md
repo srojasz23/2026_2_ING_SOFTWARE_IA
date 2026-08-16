@@ -19,5 +19,8 @@ El proyecto podrá aplicarse a diferentes áreas, entre ellas:
 * Turismo.
 * Tecnología.
 * Redes sociales u otros dominios pertinentes.
-
 El participante deberá seleccionar el contexto y definir el problema específico que será abordado mediante Machine Learning.
+
+FUENTE DE DATOS: https://www.kaggle.com/datasets  
+
+** Requerimientos:**
