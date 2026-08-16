@@ -35,18 +35,18 @@ FUENTE DE DATOS: https://www.kaggle.com/datasets
 1. Paper:
    El alumno deberá elaborar un paper técnico que documente el desarrollo del proyecto.
    El documento deberá contener como mínimo:
-      Título
-      Resumen
-      Palabras clave
-      Introducción
-      Planteamiento del problema
-      Objetivos
-      Marco teórico
-      Metodología
-      Resultados
-      Discusión
-      Conclusiones
-      Recomendaciones
-      Referencias bibliográficas
-      Anexos, cuando corresponda.
+     * Título
+     *  Resumen
+     * Palabras clave
+     *  Introducción
+    *   Planteamiento del problema
+    *   Objetivos
+   *    Marco teórico
+   *    Metodología
+   *    Resultados
+   *    Discusión
+    *   Conclusiones
+    *   Recomendaciones
+   *    Referencias bibliográficas
+   *    Anexos, cuando corresponda.
 2. PPT (Presentación):
