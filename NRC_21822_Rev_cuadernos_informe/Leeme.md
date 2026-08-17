@@ -1,5 +1,5 @@
 FORMACIÓN PRÁCTICA EN EMPRESA
-│
+│  
 ├── Entregable 1 ── Semanas 1-3  
 ├── Entregable 2 ── Semanas 4-6  
 ├── Entregable 3 ── Semanas 7-9  
