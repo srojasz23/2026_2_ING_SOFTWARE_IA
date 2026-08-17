@@ -1,4 +1,4 @@
-FORMACIÓN PRÁCTICA EN EMPRESA  
+### FORMACIÓN PRÁCTICA EN EMPRESA  
 │  
 ├── Entregable 1 ── Semanas 1-3  
 ├── Entregable 2 ── Semanas 4-6  
@@ -9,7 +9,7 @@ FORMACIÓN PRÁCTICA EN EMPRESA
 
 
 
-## Nombre del archivo  
+### Nombre del archivo  
 
 Estructura obligatoria:  
 **Semana_N°_ApellidoPaterno_ApellidoMaterno**   
