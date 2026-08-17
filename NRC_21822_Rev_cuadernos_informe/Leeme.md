@@ -1,4 +1,5 @@
 ### FORMACIÓN PRÁCTICA EN EMPRESA  
+Formación Práctica es la  evidencia de lo que hizo en la empresa.
 │  
 ├── Entregable 1 ── Semanas 1-3  
 ├── Entregable 2 ── Semanas 4-6  
@@ -7,6 +8,7 @@
 ├── Entregable 5 ── Semanas 13-14  
 └── Entregable 6 ── Semanas 15-16  
 
+La semana 3, 6, 9, 12, 14 y 16 son los informes que deben de tener la firma de la empresa.  
 
 
 ### Nombre del archivo  
