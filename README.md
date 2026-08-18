@@ -9,5 +9,5 @@ NRC_21822_Rev_cuadernos_informe (https://github.com/srojasz23/2026_2_ING_SOFTWAR
 
 
 
-**Proyecto final de 4 cursos:  **
+**Proyecto final de 4 cursos:**   
 Indicaciones del trabajo: https://github.com/srojasz23/2026_2_ING_SOFTWARE_IA/tree/main/Proyecto_final   
