@@ -46,6 +46,6 @@ Debe contener:
   * Referencia o enlace al dataset.
 
 
-Sustentación
-Cada equipo deberá presentar y sustentar su proyecto.   
+Sustentación:   
+Cada equipo deberá presentar y sustentar su proyecto :)   
 
