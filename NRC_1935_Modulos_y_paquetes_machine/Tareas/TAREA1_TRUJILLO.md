@@ -1,6 +1,0 @@
-Tare investigacion
-
-
-
-tarea: 
-soluciona
