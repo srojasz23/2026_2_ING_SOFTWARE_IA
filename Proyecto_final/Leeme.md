@@ -24,50 +24,28 @@ Condiciones
   
 **Entregables**
 1. Paper
-Documento que presente el desarrollo y resultados del proyecto.
-Debe permitir comprender:
+Documento que presente el desarrollo y resultados del proyecto. Debe permitir comprender:  (revisar el documento de referencia para que elaboren el paper)  
+* Problema
+* Dataset
+* Metodología.
+* Desarrollo de la propuesta.
+* Resultados
+* Análisis
+* Conclusiones
+* Referencias utilizadas
+2. Presentación PPT   
+* Presentación para la sustentación del proyecto.  
+* Extensión sugerida: 10–15 diapositivas.  
+3. Repositorio GitHub   
+Debe contener:  
+* Código fuente.
+* Notebooks o scripts utilizados.
+* Implementación Java, cuando corresponda.
+* Paper
+* Presentación
+* Referencia o enlace al dataset.
 
-Problema abordado.
-Dataset utilizado.
-Metodología.
-Desarrollo de la propuesta.
-Resultados.
-Análisis.
-Conclusiones.
-Referencias utilizadas.
-2. Presentación PPT
 
-Presentación para la sustentación del proyecto.
-
-Extensión sugerida: 10–15 diapositivas.
-
-3. Repositorio GitHub
-
-Debe contener:
-
-Código fuente.
-Notebooks o scripts utilizados.
-Implementación Java, cuando corresponda.
-Documentación del proyecto.
-Paper.
-Presentación.
-Referencia o enlace al dataset.
 Sustentación
+Cada equipo deberá presentar y sustentar su proyecto.   
 
-Cada equipo deberá presentar y sustentar su proyecto.
-
-Durante la sustentación se podrá preguntar sobre:
-
-Problema planteado.
-Dataset.
-Algoritmos utilizados.
-Decisiones tomadas.
-Resultados obtenidos.
-Limitaciones.
-Posibles mejoras.
-
-El equipo deberá demostrar dominio del trabajo presentado.
-
-Resultado esperado
-
-El proyecto deberá demostrar la capacidad del estudiante para identificar un problema, trabajar con datos y proponer una solución utilizando técnicas de Inteligencia Artificial y Machine Learning, sustentando sus decisiones mediante resultados experimentales.
