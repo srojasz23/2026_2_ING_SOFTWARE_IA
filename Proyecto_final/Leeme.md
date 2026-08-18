@@ -5,45 +5,45 @@ Propósito
 Desarrollar una propuesta de Inteligencia Artificial a partir de un problema real, utilizando un dataset seleccionado por el equipo y aplicando los conocimientos desarrollados durante los cursos.
 
 **Requerimientos**
-* Seleccionar un problema real relacionado con un área de interés.
-* Buscar y seleccionar un dataset público que permita abordar el problema.
-* Justificar la elección del problema y del dataset.
-* Analizar y preparar los datos.
-* Seleccionar una metodología y algoritmos de Inteligencia Artificial adecuados.
-* Desarrollar una solución utilizando Python y, de acuerdo con la propuesta, incorporar Java.
-* Evaluar los resultados obtenidos.
-* Analizar las limitaciones de la propuesta.
-* Plantear conclusiones y posibles mejoras.
+  * Seleccionar un problema real relacionado con un área de interés.
+  * Buscar y seleccionar un dataset público que permita abordar el problema.
+  * Justificar la elección del problema y del dataset.
+  * Analizar y preparar los datos.
+  * Seleccionar una metodología y algoritmos de Inteligencia Artificial adecuados.
+  * Desarrollar una solución utilizando Python y, de acuerdo con la propuesta, incorporar Java.
+  * Evaluar los resultados obtenidos.
+  * Analizar las limitaciones de la propuesta.
+  * Plantear conclusiones y posibles mejoras.
 Condiciones
-* El dataset debe proceder de una fuente identificable.
-* El problema debe estar claramente definido.
-* Las decisiones técnicas deben ser justificadas por el equipo.
-* El proyecto debe involucrar técnicas de Machine Learning y/o Deep Learning, según corresponda al problema.
-* El código desarrollado debe estar disponible en un repositorio GitHub.
-* Todos los integrantes deberán conocer y poder explicar el proyecto.
+  * El dataset debe proceder de una fuente identificable.
+  * El problema debe estar claramente definido.
+  * Las decisiones técnicas deben ser justificadas por el equipo.
+  * El proyecto debe involucrar técnicas de Machine Learning y/o Deep Learning, según corresponda al problema.
+  * El código desarrollado debe estar disponible en un repositorio GitHub.
+  * Todos los integrantes deberán conocer y poder explicar el proyecto.
   
 **Entregables**
 1. Paper
 Documento que presente el desarrollo y resultados del proyecto. Debe permitir comprender:  (revisar el documento de referencia para que elaboren el paper)  
-* Problema
-* Dataset
-* Metodología.
-* Desarrollo de la propuesta.
-* Resultados
-* Análisis
-* Conclusiones
-* Referencias utilizadas
-2. Presentación PPT   
-* Presentación para la sustentación del proyecto.  
-* Extensión sugerida: 10–15 diapositivas.  
-3. Repositorio GitHub   
+  * Problema
+  * Dataset
+  * Metodología.
+  * Desarrollo de la propuesta.
+  * Resultados
+  * Análisis
+  * Conclusiones
+  * Referencias utilizadas
+  2. Presentación PPT   
+  * Presentación para la sustentación del proyecto.  
+  * Extensión sugerida: 10–15 diapositivas.  
+3. Repositorio GitHub  
 Debe contener:  
-* Código fuente.
-* Notebooks o scripts utilizados.
-* Implementación Java, cuando corresponda.
-* Paper
-* Presentación
-* Referencia o enlace al dataset.
+  * Código fuente.
+  * Notebooks o scripts utilizados.
+  * Implementación Java, cuando corresponda.
+  * Paper
+  * Presentación
+  * Referencia o enlace al dataset.
 
 
 Sustentación
