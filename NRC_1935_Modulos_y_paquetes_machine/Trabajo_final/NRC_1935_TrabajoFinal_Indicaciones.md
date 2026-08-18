@@ -1,12 +1,12 @@
-# TRABAJO FINAL_ PROYECTO INTEGRADOR
+# TRABAJO FINAL_ PROYECTO INTEGRADOR (INDIVIDUAL)
 
 El trabajo final consiste en desarrollar una solución de Machine Learning aplicada a un problema real o contextualizado, utilizando un conjunto de datos obtenido de una fuente abierta. El trabajo deberá demostrar la capacidad para preparar datos, analizarlos, visualizarlos, construir modelos, evaluar resultados y comunicar los hallazgos obtenidos. La selección del problema, dataset, técnicas y modelos deberá ser justificada por el participante.  
 
 El proyecto podrá aplicarse a diferentes áreas, entre ellas:
 
 * Finanzas.
-* Ventas.
-*Marketing.
+* Ventas.  
+* Marketing.
 * Educación.
 * Salud.
 * Comercio electrónico.
@@ -32,35 +32,19 @@ FUENTE DE DATOS: https://www.kaggle.com/datasets
 * Si el dataset contiene información textual relevante, aplicar técnicas de procesamiento de lenguaje natural utilizando NLTK.
 
 ### *Entregables* 
-1. Paper:
-   El alumno deberá elaborar un paper técnico que documente el desarrollo del proyecto.
-   El documento deberá contener como mínimo:
-     * Título
-     *  Resumen
-     * Palabras clave
-     *  Introducción
-    *   Planteamiento del problema
-    *   Objetivos
-   *    Marco teórico
-   *    Metodología
-   *    Resultados
-   *    Discusión
-    *   Conclusiones
-    *   Recomendaciones
-   *    Referencias bibliográficas
-   *    Anexos, cuando corresponda.
+1. Script.
 2. PPT (Presentación):
-El participante deberá elaborar una presentación en PowerPoint para sustentar el proyecto.
+El Estudiante deberá elaborar una presentación en PowerPoint para sustentar el proyecto(lo aplicado en clase).
 La presentación deberá mostrar, como mínimo:
-   * Problema.
-   * Objetivos.
-   * Dataset.
-   * Metodología.
-   * Análisis de datos.
-   * Visualizaciones.
-   * Modelos utilizados.
-   * Resultados.
-   * Comparación, cuando corresponda.
-   * Conclusiones.
+   * Problema
+   * Objetivos
+   * Dataset
+   * Metodología usada
+   * Análisis de datos
+   * Visualizaciones
+   * Modelos utilizados
+   * Resultados
+   * Comparación, cuando corresponda
+   * Conclusiones
 
 La presentación deberá priorizar resultados, gráficos y conclusiones, evitando incluir grandes bloques de código.
