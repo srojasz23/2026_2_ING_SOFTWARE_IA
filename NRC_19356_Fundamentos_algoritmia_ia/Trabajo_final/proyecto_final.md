@@ -120,77 +120,16 @@ El dataset contiene características fisicoquímicas del vino y una variable rel
 El trabajo deberá demostrar la utilización de los contenidos desarrollados durante el curso.
 
 ## 5.1 K-Nearest Neighbors — KNN
-
-Los estudiantes deberán demostrar comprensión del algoritmo y analizar su comportamiento sobre el dataset asignado.
-
-Deberán investigar, entre otros aspectos:
-
-- Concepto de vecinos.
-- Distancia.
-- Elección de K.
-- Influencia de la escala de las variables.
-- Comportamiento del modelo.
-- Ventajas y limitaciones.
-
-> **No se indicará qué valor de K utilizar.**
-
----
-
 ## 5.2 Probabilidad y Naive Bayes
-
-Los estudiantes deberán investigar y fundamentar el uso de modelos probabilísticos para clasificación.
-
-Deberán considerar:
-
-- Probabilidad.
-- Probabilidad condicional.
-- Teorema de Bayes.
-- Independencia de variables.
-- Clasificación probabilística.
-- Interpretación de probabilidades.
-- Ventajas y limitaciones.
-
----
-
 ## 5.3 SVM avanzado y optimización
-
-El trabajo deberá demostrar comprensión del enfoque de **Support Vector Machine (SVM)** y de la importancia de sus parámetros.
-
-Los estudiantes deberán investigar:
-
-- Hiperplano.
-- Margen.
-- Vectores soporte.
-- Separación lineal y no lineal.
-- Funciones kernel.
-- Parámetros del modelo.
-- Optimización.
-- Sobreajuste y subajuste.
----
-
 ## 5.4 Evaluación y métricas
-
-Los resultados deberán ser evaluados mediante métricas apropiadas para el problema.
-
-Los estudiantes deberán investigar y analizar, según corresponda:
-
-- Matriz de confusión.
-- Accuracy.
-- Precision.
-- Recall.
-- F1-score.
-- ROC.
-- ROC-AUC.
-- Comparación de modelos.
 
 Deberán explicar qué significa cada resultado para el problema estudiado.
 
 ---
 
-# 7. DESARROLLO DEL TRABAJO
-
+# 6. DESARROLLO DEL TRABAJO
 Cada grupo deberá desarrollar una propuesta de solución para el problema asignado.
-
 El trabajo deberá contemplar, como mínimo:
 
 ## A. Comprensión del problema
@@ -256,7 +195,7 @@ Las conclusiones deberán responder:
 
 ---
 
-# 8. ENTREGABLES
+# 7. ENTREGABLES
 
 Cada grupo deberá presentar **3 productos obligatorios**.
 
@@ -284,7 +223,7 @@ El código deberá estar ordenado y comentado.
 
 ---
 
-# 9. ENTREGABLE 2 — PRESENTACIÓN PPT
+# 8. ENTREGABLE 2 — PRESENTACIÓN PPT
 
 El grupo deberá preparar una presentación para exponer su trabajo.
 
@@ -313,7 +252,7 @@ Debe centrarse en explicar el problema, las decisiones tomadas y los resultados 
 
 ---
 
-# 10. ENTREGABLE 3 — PDF
+# 9. ENTREGABLE 3 — PDF
 
 El PDF deberá contener el **informe técnico del proyecto**.
 
@@ -339,7 +278,7 @@ El documento deberá presentar evidencia de los resultados obtenidos durante el 
 
 ---
 
-# 11. REGLAS IMPORTANTES
+# 10. REGLAS IMPORTANTES
 
 ### 1. Dataset asignado
 
