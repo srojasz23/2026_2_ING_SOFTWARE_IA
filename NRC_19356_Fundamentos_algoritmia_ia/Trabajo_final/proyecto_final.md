@@ -21,7 +21,7 @@ Al finalizar el trabajo final, el estudiante será capaz de analizar un problema
 - Optimización de modelos.
 - Evaluación y métricas de clasificación.
 
-El estudiante deberá fundamentar sus decisiones técnicas, interpretar los resultados obtenidos y determinar cuál de los modelos desarrollados resulta más adecuado para el problema planteado.
+Deberan de fundamentar sus decisiones técnicas, interpretar los resultados obtenidos y determinar cuál de los modelos desarrollados resulta más adecuado para el problema planteado.
 
 ---
 
@@ -59,12 +59,6 @@ El dataset contiene características calculadas a partir de imágenes digitaliza
 - Importancia de la clasificación en este contexto.
 - Limitaciones del dataset.
 
-### Deben aplicar
-
-Los estudiantes deberán determinar, a partir de los conocimientos adquiridos durante el curso, las técnicas y estrategias apropiadas para resolver el problema.
-
----
-
 ## GRUPO 2 — Pima Indians Diabetes
 
 **Dataset:** Pima Indians Diabetes – Kaggle
@@ -81,12 +75,6 @@ El dataset contiene variables relacionadas con mediciones diagnósticas y una va
 - Posibles problemas de calidad de datos.
 - Relación entre las variables predictoras y el resultado.
 - Importancia de seleccionar métricas adecuadas para este problema.
-
-### Deben aplicar
-
-Los estudiantes deberán determinar de manera fundamentada qué técnicas estudiadas durante el curso son apropiadas para abordar el problema.
-
----
 
 ## GRUPO 3 — Loan Approval Prediction
 
@@ -106,10 +94,6 @@ El dataset contiene información de solicitantes de préstamos y una variable ob
 - Posibles factores relacionados con la aprobación de un préstamo.
 - Riesgos de utilizar un modelo de clasificación en este contexto.
 
-### Deben aplicar
-
-El grupo deberá seleccionar, implementar, comparar y justificar los métodos estudiados que considere pertinentes.
-
 ---
 
 ## GRUPO 4 — Red Wine Quality
@@ -128,10 +112,6 @@ El dataset contiene características fisicoquímicas del vino y una variable rel
 - Posible desbalance de clases.
 - Relación entre características fisicoquímicas y calidad.
 - Criterio utilizado para plantear el problema de clasificación.
-
-### Deben aplicar
-
-El grupo deberá establecer su propia estrategia de modelamiento y justificar las decisiones tomadas.
 
 ---
 
@@ -170,8 +150,6 @@ Deberán considerar:
 - Interpretación de probabilidades.
 - Ventajas y limitaciones.
 
-> **No se indicará qué variante de Naive Bayes utilizar. El grupo deberá investigar cuál corresponde a las características de su dataset.**
-
 ---
 
 ## 5.3 SVM avanzado y optimización
@@ -188,11 +166,6 @@ Los estudiantes deberán investigar:
 - Parámetros del modelo.
 - Optimización.
 - Sobreajuste y subajuste.
-
-> **No se proporcionarán los valores de los hiperparámetros.**
-
-El grupo deberá investigar y justificar su estrategia.
-
 ---
 
 ## 5.4 Evaluación y métricas
@@ -210,59 +183,7 @@ Los estudiantes deberán investigar y analizar, según corresponda:
 - ROC-AUC.
 - Comparación de modelos.
 
-> **No basta con indicar cuál modelo obtuvo mayor Accuracy.**
-
 Deberán explicar qué significa cada resultado para el problema estudiado.
-
----
-
-# 6. PREGUNTAS GUÍA
-
-Las siguientes preguntas deberán ser respondidas en el **PDF**.
-
-### Pregunta 1
-
-**¿Por qué el dataset seleccionado es adecuado para resolver un problema de Machine Learning?**
-
-### Pregunta 2
-
-**¿Qué características del dataset pueden afectar el comportamiento de los modelos de clasificación?**
-
-### Pregunta 3
-
-**¿Por qué la escala de las variables puede influir en determinados algoritmos de Machine Learning?**
-
-### Pregunta 4
-
-**¿Cómo puede utilizarse la probabilidad para realizar una clasificación mediante Naive Bayes?**
-
-### Pregunta 5
-
-**¿Qué factores deben considerarse para determinar una configuración adecuada de KNN?**
-
-### Pregunta 6
-
-**¿Qué representa el margen en SVM y por qué es importante para la clasificación?**
-
-### Pregunta 7
-
-**¿Qué importancia tienen los hiperparámetros en el desempeño de un modelo SVM?**
-
-### Pregunta 8
-
-**¿Por qué no es suficiente utilizar únicamente Accuracy para evaluar un modelo de clasificación?**
-
-### Pregunta 9
-
-**¿Qué diferencias se observaron entre los modelos desarrollados?**
-
-### Pregunta 10
-
-**¿Qué modelo presenta el mejor desempeño para el problema planteado y cómo se justifica esta decisión mediante las métricas obtenidas?**
-
-### Pregunta 11
-
-**¿Qué limitaciones presenta la solución desarrollada y qué mejoras podrían implementarse en un trabajo posterior?**
 
 ---
 
@@ -424,14 +345,7 @@ El documento deberá presentar evidencia de los resultados obtenidos durante el 
 
 Cada grupo deberá trabajar únicamente con el dataset asignado.
 
-No se permitirá intercambiar datasets entre grupos sin autorización del docente.
-
 ### 2. Investigación
-
-No se entregará una solución paso a paso.
-
-El objetivo es que el estudiante:
-
 - Investigue.
 - Experimente.
 - Compare.
@@ -452,11 +366,7 @@ Se considerará:
 - Comparación.
 - Capacidad para justificar decisiones.
 
-### 4. Reproducibilidad
-
-El código deberá estar organizado de manera que el docente pueda ejecutarlo y obtener resultados equivalentes a los presentados.
-
-### 5. Fuentes
+### 4. Fuentes
 
 Toda fuente externa utilizada deberá ser citada.
 
@@ -475,41 +385,7 @@ Esto incluye:
 
 | Producto | Formato | Descripción |
 |---|---|---|
-| **Entregable 1** | `.html` | Desarrollo completo, código, gráficos y resultados |
-| **Entregable 2** | `.pptx` | Presentación para exposición |
-| **Entregable 3** | `.pdf` | Informe técnico y respuestas a las preguntas guía |
+| **Entregable 1** | `.html` | Desarrollo completo, código, gráficos y resultados (subir al GITHUB) |
+| **Entregable 2** | `.pptx` | Presentación para exposición (subir al GITHUB)|
+| **Entregable 3** | `.pdf` | Informe técnico y respuestas a las preguntas guía (Subir a la plataforma Blackboard |
 
----
-
-# 13. DISTRIBUCIÓN DE GRUPOS
-
-| Grupo | Integrantes | Dataset |
-|---|---:|---|
-| **Grupo 1** | 2 estudiantes | Breast Cancer Wisconsin Diagnostic |
-| **Grupo 2** | 2 estudiantes | Pima Indians Diabetes |
-| **Grupo 3** | 2 estudiantes | Loan Approval Prediction |
-| **Grupo 4** | 2 estudiantes | Red Wine Quality |
-
----
-
-# 14. CRITERIO CENTRAL DEL TRABAJO
-
-El propósito del trabajo **no es obtener simplemente el modelo con mayor Accuracy**.
-
-El estudiante deberá demostrar que puede responder una pregunta fundamental:
-
-> **¿Qué modelo es más adecuado para el problema planteado y por qué?**
-
-La respuesta deberá estar sustentada mediante:
-
-**Datos → Análisis → Modelamiento → Optimización → Métricas → Interpretación → Decisión final**
-
----
-
-# 15. RESULTADO ESPERADO
-
-Al finalizar el trabajo, cada grupo deberá demostrar que es capaz de analizar un problema real de clasificación y desarrollar una solución de Machine Learning, tomando decisiones fundamentadas sobre los algoritmos, parámetros y métricas utilizados.
-
-El trabajo deberá evidenciar la aplicación integrada de los conocimientos desarrollados durante el curso:
-
-**KNN + Probabilidad/Naive Bayes + SVM + Optimización + Evaluación y métricas.**
