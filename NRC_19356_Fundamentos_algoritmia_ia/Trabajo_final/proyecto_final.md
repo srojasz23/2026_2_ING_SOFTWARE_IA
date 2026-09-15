@@ -17,6 +17,7 @@ Al finalizar el trabajo final, el estudiante será capaz de analizar un problema
 - Support Vector Machines (SVM).
 - Optimización de modelos.
 - Evaluación y métricas de clasificación.
+  considerar el proceso EDA    
 
 Deberan de fundamentar sus decisiones técnicas, interpretar los resultados obtenidos y determinar cuál de los modelos desarrollados resulta más adecuado para el problema planteado.
 
