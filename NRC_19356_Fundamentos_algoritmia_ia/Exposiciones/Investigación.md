@@ -2,7 +2,7 @@
 
 ## 1. Temas de investigación
 
-| Grupo | Tema | Enfoque principal |
+| Grupo | Tema | Consideración |
 |---|---|---|
 | **Grupo xx** | **Evolución de la IA: de los sistemas expertos a la IA generativa** | Analizar cómo ha evolucionado la Inteligencia Artificial, desde los primeros sistemas basados en reglas hasta los modelos actuales de IA generativa. |
 | **Grupo xx** | **IA y futuro del trabajo: transformación de las profesiones y nuevas habilidades** | Investigar cómo la IA está transformando los empleos, las profesiones y las competencias que necesitarán los trabajadores. |
