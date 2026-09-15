@@ -1,4 +1,4 @@
-# INVESTIGACIÓN Y EXPOSICIÓN: ACTUALIDAD Y EVOLUCIÓN DE LA INTELIGENCIA ARTIFICIAL
+# EXPOSICIÓN: ACTUALIDAD Y EVOLUCIÓN DE LA INTELIGENCIA ARTIFICIAL
 
 ## 1. Temas de investigación
 
@@ -60,6 +60,7 @@
 - Incorporar al menos **una noticia, caso real o avance reciente**.
 - Utilizar como mínimo **4 fuentes confiables**.
 - Las fuentes deben aparecer al final de la presentación.
+- Subir al GITHUB
 
 ### Fuentes recomendadas
 
