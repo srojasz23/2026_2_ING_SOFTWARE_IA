@@ -28,12 +28,12 @@ El trabajo será desarrollado en **4 grupos de 2 estudiantes**.
 
 Cada grupo trabajará con un **dataset diferente de Kaggle**.
 
-| Grupo | Dataset asignado | Problema |
+| Grupo | Dataset asignado | Alumnos|
 |---|---|---|
-| **Grupo 1** | Breast Cancer Wisconsin Diagnostic | Clasificación |
-| **Grupo 2** | Pima Indians Diabetes | Clasificación |
-| **Grupo 3** | Loan Approval Prediction | Clasificación |
-| **Grupo 4** | Red Wine Quality | Clasificación |
+| **Grupo 1** | Breast Cancer Wisconsin Diagnostic | Azziz - Nikolas |
+| **Grupo 2** | Pima Indians Diabetes | Nieto - Axel |
+| **Grupo 3** | Loan Approval Prediction | Estrella - Steven |
+| **Grupo 4** | Red Wine Quality | Benjamin - Kiara |
 
 ---
 
