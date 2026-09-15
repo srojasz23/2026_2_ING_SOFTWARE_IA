@@ -1,8 +1,5 @@
 # TRABAJO FINAL DEL CURSO
 ## FUNDAMENTOS Y ALGORITMIA PARA INTELIGENCIA ARTIFICIAL
-
-### Análisis, desarrollo y evaluación de modelos de Machine Learning
-
 ---
 
 ## 1. TEMA
