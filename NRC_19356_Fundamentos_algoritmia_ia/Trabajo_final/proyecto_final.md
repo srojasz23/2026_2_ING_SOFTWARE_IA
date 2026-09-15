@@ -42,9 +42,9 @@ Cada grupo trabajará con un **dataset diferente de Kaggle**.
 
 # 4. DATASETS ASIGNADOS
 
-## GRUPO 1 — Breast Cancer Wisconsin Diagnostic
+## GRUPO 1 - Breast Cancer Wisconsin Diagnostic
 
-**Dataset:** Breast Cancer Wisconsin Diagnostic – Kaggle
+**Dataset:** Breast Cancer Wisconsin Diagnostic - Kaggle
 
 El dataset contiene características calculadas a partir de imágenes digitalizadas de aspiraciones con aguja fina de masas mamarias.
 
@@ -59,7 +59,7 @@ El dataset contiene características calculadas a partir de imágenes digitaliza
 - Importancia de la clasificación en este contexto.
 - Limitaciones del dataset.
 
-## GRUPO 2 — Pima Indians Diabetes
+## GRUPO 2 - Pima Indians Diabetes
 
 **Dataset:** Pima Indians Diabetes – Kaggle
 
@@ -76,7 +76,7 @@ El dataset contiene variables relacionadas con mediciones diagnósticas y una va
 - Relación entre las variables predictoras y el resultado.
 - Importancia de seleccionar métricas adecuadas para este problema.
 
-## GRUPO 3 — Loan Approval Prediction
+## GRUPO 3 - Loan Approval Prediction
 
 **Dataset:** Loan Approval Prediction – Kaggle
 
@@ -96,7 +96,7 @@ El dataset contiene información de solicitantes de préstamos y una variable ob
 
 ---
 
-## GRUPO 4 — Red Wine Quality
+## GRUPO 4 - Red Wine Quality
 
 **Dataset:** Red Wine Quality – Kaggle
 
@@ -252,7 +252,7 @@ Debe centrarse en explicar el problema, las decisiones tomadas y los resultados 
 
 ---
 
-# 9. ENTREGABLE 3 — PDF
+# 9. ENTREGABLE 3 - PDF
 
 El PDF deberá contener el **informe técnico del proyecto**.
 
