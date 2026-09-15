@@ -4,14 +4,14 @@
 
 | Grupo | Tema | Consideración |
 |---|---|---|
-| **Grupo xx** | **Evolución de la IA: de los sistemas expertos a la IA generativa** | Analizar cómo ha evolucionado la Inteligencia Artificial, desde los primeros sistemas basados en reglas hasta los modelos actuales de IA generativa. |
-| **Grupo xx** | **IA y futuro del trabajo: transformación de las profesiones y nuevas habilidades** | Investigar cómo la IA está transformando los empleos, las profesiones y las competencias que necesitarán los trabajadores. |
-| **Grupo xx** | **IA en la educación: oportunidades, riesgos y transformación del aprendizaje** | Analizar cómo herramientas de IA están cambiando la enseñanza y el aprendizaje, considerando beneficios, riesgos y uso responsable. |
-| **Grupo xx** | **Deepfakes y desinformación: impacto de la IA en la generación y manipulación de contenidos** | Investigar cómo la IA puede generar imágenes, videos, audios y textos falsos o manipulados, y sus posibles consecuencias. |
-| **Grupo xx** | **IA, privacidad y protección de datos personales** | Analizar los riesgos relacionados con la recopilación, procesamiento y utilización de datos personales mediante sistemas de IA. |
-| **Grupo xx** | **Regulación de la IA en Perú: Ley N.° 31814 y su Reglamento** | Investigar qué establece la legislación peruana sobre Inteligencia Artificial, sus objetivos, principios, responsabilidades y principales implicancias. |
-| **Grupo xx** | **Ética, sesgos y discriminación en sistemas de IA** | Analizar cómo pueden surgir sesgos en los datos y algoritmos, y qué consecuencias pueden producir en sistemas de IA. |
-| **Grupo xx** | **Futuro de la IA: tendencias, avances tecnológicos y desafíos** | Investigar hacia dónde está avanzando la IA, cuáles son las tecnologías emergentes y qué desafíos podrían presentarse en los próximos años. |
+| **Grupo 3: Estrella - Steven / 18.09.2026 ** | **Evolución de la IA: de los sistemas expertos a la IA generativa** | Analizar cómo ha evolucionado la Inteligencia Artificial, desde los primeros sistemas basados en reglas hasta los modelos actuales de IA generativa. |
+| **Grupo 2: Nieto - Axel / 19.09.2026** | **IA y futuro del trabajo: transformación de las profesiones y nuevas habilidades** | Investigar cómo la IA está transformando los empleos, las profesiones y las competencias que necesitarán los trabajadores. |
+| **Grupo 4: Benjamin - Kiara / 25.09.2026** | **IA en la educación: oportunidades, riesgos y transformación del aprendizaje** | Analizar cómo herramientas de IA están cambiando la enseñanza y el aprendizaje, considerando beneficios, riesgos y uso responsable. |
+| **Grupo 1: Azziz - Nikolas / 26.09.2026** | **Deepfakes y desinformación: impacto de la IA en la generación y manipulación de contenidos** | Investigar cómo la IA puede generar imágenes, videos, audios y textos falsos o manipulados, y sus posibles consecuencias. |
+| **Grupo 3: Estrella - Steven / 02.10.2026** | **IA, privacidad y protección de datos personales** | Analizar los riesgos relacionados con la recopilación, procesamiento y utilización de datos personales mediante sistemas de IA. |
+| **Grupo 2: Nieto - Axel / 03.10.2026** | **Regulación de la IA en Perú: Ley N.° 31814 y su Reglamento** | Investigar qué establece la legislación peruana sobre Inteligencia Artificial, sus objetivos, principios, responsabilidades y principales implicancias. |
+| **Grupo 4: Benjamin - Kiara / 05.10.2026** | **Ética, sesgos y discriminación en sistemas de IA** | Analizar cómo pueden surgir sesgos en los datos y algoritmos, y qué consecuencias pueden producir en sistemas de IA. |
+| **Grupo 1: Azziz - Nikolas / 06.10.2026** | **Futuro de la IA: tendencias, avances tecnológicos y desafíos** | Investigar hacia dónde está avanzando la IA, cuáles son las tecnologías emergentes y qué desafíos podrían presentarse en los próximos años. |
 
 ---
 
