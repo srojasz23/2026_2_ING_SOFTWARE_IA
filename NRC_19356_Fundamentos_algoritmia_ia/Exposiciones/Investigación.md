@@ -4,14 +4,14 @@
 
 | Grupo | Tema | Enfoque principal |
 |---|---|---|
-| **Grupo 1** | **Evolución de la IA: de los sistemas expertos a la IA generativa** | Analizar cómo ha evolucionado la Inteligencia Artificial, desde los primeros sistemas basados en reglas hasta los modelos actuales de IA generativa. |
-| **Grupo 2** | **IA y futuro del trabajo: transformación de las profesiones y nuevas habilidades** | Investigar cómo la IA está transformando los empleos, las profesiones y las competencias que necesitarán los trabajadores. |
-| **Grupo 3** | **IA en la educación: oportunidades, riesgos y transformación del aprendizaje** | Analizar cómo herramientas de IA están cambiando la enseñanza y el aprendizaje, considerando beneficios, riesgos y uso responsable. |
-| **Grupo 4** | **Deepfakes y desinformación: impacto de la IA en la generación y manipulación de contenidos** | Investigar cómo la IA puede generar imágenes, videos, audios y textos falsos o manipulados, y sus posibles consecuencias. |
-| **Grupo 5** | **IA, privacidad y protección de datos personales** | Analizar los riesgos relacionados con la recopilación, procesamiento y utilización de datos personales mediante sistemas de IA. |
-| **Grupo 6** | **Regulación de la IA en Perú: Ley N.° 31814 y su Reglamento** | Investigar qué establece la legislación peruana sobre Inteligencia Artificial, sus objetivos, principios, responsabilidades y principales implicancias. |
-| **Grupo 7** | **Ética, sesgos y discriminación en sistemas de IA** | Analizar cómo pueden surgir sesgos en los datos y algoritmos, y qué consecuencias pueden producir en sistemas de IA. |
-| **Grupo 8** | **Futuro de la IA: tendencias, avances tecnológicos y desafíos** | Investigar hacia dónde está avanzando la IA, cuáles son las tecnologías emergentes y qué desafíos podrían presentarse en los próximos años. |
+| **Grupo xx** | **Evolución de la IA: de los sistemas expertos a la IA generativa** | Analizar cómo ha evolucionado la Inteligencia Artificial, desde los primeros sistemas basados en reglas hasta los modelos actuales de IA generativa. |
+| **Grupo xx** | **IA y futuro del trabajo: transformación de las profesiones y nuevas habilidades** | Investigar cómo la IA está transformando los empleos, las profesiones y las competencias que necesitarán los trabajadores. |
+| **Grupo xx** | **IA en la educación: oportunidades, riesgos y transformación del aprendizaje** | Analizar cómo herramientas de IA están cambiando la enseñanza y el aprendizaje, considerando beneficios, riesgos y uso responsable. |
+| **Grupo xx** | **Deepfakes y desinformación: impacto de la IA en la generación y manipulación de contenidos** | Investigar cómo la IA puede generar imágenes, videos, audios y textos falsos o manipulados, y sus posibles consecuencias. |
+| **Grupo xx** | **IA, privacidad y protección de datos personales** | Analizar los riesgos relacionados con la recopilación, procesamiento y utilización de datos personales mediante sistemas de IA. |
+| **Grupo xx** | **Regulación de la IA en Perú: Ley N.° 31814 y su Reglamento** | Investigar qué establece la legislación peruana sobre Inteligencia Artificial, sus objetivos, principios, responsabilidades y principales implicancias. |
+| **Grupo xx** | **Ética, sesgos y discriminación en sistemas de IA** | Analizar cómo pueden surgir sesgos en los datos y algoritmos, y qué consecuencias pueden producir en sistemas de IA. |
+| **Grupo xx** | **Futuro de la IA: tendencias, avances tecnológicos y desafíos** | Investigar hacia dónde está avanzando la IA, cuáles son las tecnologías emergentes y qué desafíos podrían presentarse en los próximos años. |
 
 ---
 
@@ -20,7 +20,7 @@
 ### Investigación
 
 - Cada grupo tendrá un **tema asignado**.
-- **Todos los integrantes del grupo deben investigar individualmente el tema asignado.**
+- **Todos los integrantes del grupo deben investigar todos los temas**
 - La exposición será grupal, pero cada integrante debe conocer y comprender **todo el contenido del tema**, no únicamente la parte que expondrá.
 - La información debe ser investigada en **fuentes confiables y verificables**.
 - No se permitirá limitar la investigación a copiar información de una sola página web o utilizar únicamente contenido generado por IA.
@@ -73,20 +73,4 @@ Se pueden utilizar:
 - Medios de comunicación reconocidos.
 - Legislación y documentos oficiales.
 
----
 
-# 5. Pregunta final para la exposición
-
-Al finalizar la presentación, cada grupo deberá responder:
-
-> **¿Cómo se relaciona el tema investigado con el desarrollo actual de la Inteligencia Artificial y qué debería conocer un profesional que trabaja con IA?**
-
-La respuesta debe estar sustentada en la investigación realizada.
-
----
-
-## Importante
-
-> **La investigación es grupal, pero el aprendizaje es individual.**
->
-> Todos los integrantes deben investigar, comprender y revisar **todo el tema asignado**. Durante la exposición, el docente podrá realizar preguntas a cualquier integrante sobre cualquier parte de la investigación.
