@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>IA, privacidad y protección de datos personales</title>
+<style>
+:root{--bg:#f6f7fb;--fg:#0f1b2d;--mut:#51607a;--card:#fff;--line:#d9deea;--ac:#0b7a75;--warn:#b45309}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0b1220;--fg:#eaf0fb;--mut:#9fb0cc;--card:#121c31;--line:#22314f;--ac:#2dd4bf;--warn:#fbbf24}}
+:root[data-theme="dark"]{--bg:#0b1220;--fg:#eaf0fb;--mut:#9fb0cc;--card:#121c31;--line:#22314f;--ac:#2dd4bf;--warn:#fbbf24}
+*{box-sizing:border-box;margin:0}
+html,body{height:100%;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+.slide{display:none;min-height:100vh;padding:6vh 7vw 12vh;flex-direction:column;justify-content:center;gap:2.2vh;position:relative;border-left:10px solid var(--ac);overflow-y:auto}
+.slide.on{display:flex}
+.num{position:absolute;right:5vw;top:4vh;font-size:clamp(48px,9vw,120px);font-weight:800;color:var(--line);line-height:1}
+.k{color:var(--ac);font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:clamp(13px,1.8vw,19px)}
+h1{font-size:clamp(38px,6.6vw,84px);line-height:1.08;max-width:18ch}
+h2{font-size:clamp(30px,4.8vw,58px);line-height:1.15;max-width:22ch}
+p,li{font-size:clamp(18px,2.6vw,30px);line-height:1.45;color:var(--mut)}
+b{color:var(--fg)}
+.g{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.c{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px}
+.c h3{font-size:clamp(20px,2.7vw,32px);margin-bottom:6px;color:var(--fg)}
+.c p{font-size:clamp(16px,2.1vw,25px)}
+.w{border-color:var(--warn)}.w h3{color:var(--warn)}
+.st{display:flex;align-items:stretch;gap:10px;flex-wrap:wrap}
+.st .c{flex:1;min-width:170px;position:relative}
+.st .c:not(:last-child)::after{content:"→";position:absolute;right:-16px;top:50%;transform:translateY(-50%);color:var(--ac);font-weight:800}
+.tag{display:inline-block;border:1px solid var(--warn);color:var(--warn);border-radius:99px;padding:5px 14px;font-size:clamp(15px,1.9vw,22px);width:fit-content}
+ol.s{padding-left:1.2em;display:grid;gap:6px}ol.s li{font-size:clamp(14px,1.9vw,22px)}
+ol.s a{font-size:clamp(12px,1.5vw,17px);color:var(--ac);text-decoration:none;word-break:break-all;font-family:monospace}
+ol.s a:hover{text-decoration:underline}
+.n{display:none;position:fixed;left:0;right:0;bottom:56px;background:var(--card);border-top:2px solid var(--ac);padding:10px 7vw;font-size:17px;color:var(--fg);z-index:5}
+body.notes .slide.on .n{display:block}
+nav{position:fixed;bottom:0;left:0;right:0;display:flex;justify-content:space-between;align-items:center;padding:10px 5vw;background:var(--bg);border-top:1px solid var(--line);z-index:9}
+nav button{background:var(--ac);color:var(--bg);border:0;border-radius:8px;padding:8px 16px;font-size:15px;cursor:pointer}
+#pg{font-size:13px;color:var(--mut)}
+@media print{.slide{display:flex!important;min-height:100vh;page-break-after:always}nav,.n{display:none!important}}
+</style></head><body>
+
+<section class="slide on"><div class="k">Exposición · 02.10.2026</div>
+<h1>IA, privacidad y protección de datos personales</h1>
+<p><b>Tus datos: ¿quién los usa y cómo?</b></p>
+<p>Grupo 3 · Estrella<br>Ingeniería de Software · SENATI CFP San Juan de Lurigancho</p>
+<aside class="n">Presentarse, dar el tema y lanzar la pregunta: ¿cuántas apps le pidieron hoy sus datos? Una frase, sin leer.</aside></section>
+
+<section class="slide"><div class="num">01</div><div class="k">Introducción</div><h2>¿Por qué importa hoy?</h2>
+<div class="g">
+<div class="c"><h3>La IA se nutre de datos</h3><p>Sin datos personales, gran parte de los sistemas actuales no funcionaría.</p></div>
+<div class="c"><h3>Los agentes ya actúan solos</h3><p>Reciben un objetivo y deciden cómo lograrlo.</p></div>
+<div class="c"><h3>Perú ya lo regula</h3><p>Desde el 10 de setiembre de 2026, sectores como salud, educación y finanzas ya deben cumplir obligaciones específicas de IA.</p></div></div>
+<aside class="n">Conecte las tres ideas: datos, autonomía y regulación. El 10 de set. 2026 es cuando vence el primer tramo (1 año) del cronograma escalonado del Reglamento, que cuenta desde el 10 de set. 2025. Otros sectores tienen 2, 3 o 4 años. El caso de España lo desarrolla luego.</aside></section>
+
+<section class="slide"><div class="num">02</div><div class="k">Contexto</div><h2>Qué son los datos personales</h2>
+<p>Nombre, DNI, correo, domicilio, teléfono, <b>voz</b> y <b>huella digital</b>: todo lo que te identifica.</p>
+<div class="g">
+<div class="c"><h3>Ley 29733 (2011)</h3><p>Legalidad, consentimiento, finalidad, proporcionalidad, calidad y seguridad.</p></div>
+<div class="c"><h3>Derechos ARCO</h3><p>Acceso, Rectificación, Cancelación y Oposición.</p></div>
+<div class="c"><h3>Autoridad</h3><p>Autoridad Nacional de Protección de Datos Personales (Minjus).</p></div></div>
+<aside class="n">Explique ARCO con un ejemplo: pedir a una empresa que corrija o borre tus datos.</aside></section>
+
+<section class="slide"><div class="num">03</div><div class="k">Desarrollo</div><h2>Cómo usa la IA tus datos</h2>
+<div class="st">
+<div class="c"><h3>1 · Recopila</h3><p>Formularios, apps, voz, huella, uso del servicio.</p></div>
+<div class="c"><h3>2 · Procesa</h3><p>Detecta patrones y puede crear perfiles.</p></div>
+<div class="c"><h3>3 · Actúa</h3><p>Recomienda, automatiza y, con agentes, ejecuta tareas.</p></div></div>
+<p>El riesgo crece en cada paso: más datos, más inferencias, más autonomía.</p>
+<aside class="n">Ejemplo cotidiano: una app que recomienda contenido según lo que haces. Ese es el paso 2.</aside></section>
+
+<section class="slide"><div class="num">04</div><div class="k">Caso reciente · España, setiembre 2026</div><h2>Primer ataque notificado con un agente de IA</h2>
+<div class="st">
+<div class="c"><h3>Busca fallos</h3><p>Analiza archivos en busca de vulnerabilidades.</p></div>
+<div class="c"><h3>Entra al sistema</h3><p>Inicia sesión y sigue explorando solo.</p></div>
+<div class="c w"><h3>Daño</h3><p>Modifica datos personales y accede a facturas.</p></div></div>
+<span class="tag">En análisis: es una sola notificación y no una tendencia</span>
+<p><b>Lección de la AEPD:</b> los ataques con IA deben incluirse expresamente en el análisis de riesgos.</p>
+<aside class="n">Matices: empresa y modelo no divulgados, el modelo no fue necesariamente vulnerado, no se sabe cómo se obtuvieron las credenciales. Fuente: AEPD.</aside></section>
+
+<section class="slide"><div class="num">05</div><div class="k">Perú</div><h2>Marco legal y empresas</h2>
+<div class="g">
+<div class="c"><h3>Reglamento Ley 31814</h3><p>D.S. 115-2025-PCM: privacidad desde el diseño, minimizar datos sensibles, anonimizar y ser transparentes.</p></div>
+<div class="c"><h3>Movistar</h3><p>Declara aplicar los principios de la Ley 29733, ofrecer derechos ARCO y cuidar la privacidad desde el diseño.</p></div>
+<div class="c"><h3>Claro (América Móvil)</h3><p>Cuenta con una política corporativa y un Programa de Privacidad.</p></div></div>
+<p>Ojo: son <b>declaraciones de las propias empresas</b>, no auditorías.</p>
+<aside class="n">Señale que Movistar recopila voz y huella según su política. Ese vínculo con riesgos de IA es análisis propio.</aside></section>
+
+<section class="slide"><div class="num">06</div><div class="k">Beneficios y oportunidades</div><h2>Cuando se hace bien</h2>
+<div class="g">
+<div class="c"><h3>Privacidad desde el diseño</h3><p>La protección nace con el producto, no después.</p></div>
+<div class="c"><h3>Menos datos, mejor</h3><p>Minimización y anonimización reducen el daño ante una brecha.</p></div>
+<div class="c"><h3>Más control</h3><p>Derechos ARCO y transparencia para el titular.</p></div>
+<div class="c"><h3>Reguladores atentos</h3><p>La AEPD anticipa la amenaza y guía a las empresas.</p></div></div>
+<aside class="n">Mensaje: regular y proteger no frena la IA, la hace confiable.</aside></section>
+
+<section class="slide"><div class="num">07</div><div class="k">Riesgos y desafíos</div><h2>Lo que puede salir mal</h2>
+<div class="g">
+<div class="c w"><h3>Agentes autónomos</h3><p>Una cuenta con demasiados permisos permite saltar entre servicios antes de ser detectado.</p></div>
+<div class="c w"><h3>Perfilamiento</h3><p>Perfiles de clientes creados con IA a partir de sus preferencias.</p></div>
+<div class="c w"><h3>Datos biométricos</h3><p>Voz y huella son difíciles de cambiar si se filtran.</p></div>
+<div class="c w"><h3>Alteración de datos</h3><p>No solo se roban: también se pueden modificar.</p></div></div>
+<aside class="n">El tercer punto es análisis propio, dilo así. El resto sale de la AEPD y de las políticas revisadas.</aside></section>
+
+<section class="slide"><div class="num">08</div><div class="k">Situación actual y futuro</div><h2>Hacia dónde va esto</h2>
+<div class="g">
+<div class="c"><h3>Hoy</h3><p>Perú ya exige cumplimiento y España da la primera alerta de un ataque con agentes.</p></div>
+<div class="c"><h3>Mañana</h3><p>Más agentes: la IA no crea necesariamente nuevas amenazas, pero acelera su velocidad y alcance.</p></div></div>
+<aside class="n">Conecte con la conclusión: si esto va en aumento, ¿qué hacemos al respecto? Paso a la siguiente diapositiva.</aside></section>
+
+<section class="slide"><div class="num">09</div><div class="k">Conclusiones</div><h2>Lo que nos llevamos de este tema</h2>
+<div class="g">
+<div class="c"><h3>1 · Uso y riesgo van juntos</h3><p>La IA necesita datos para funcionar, y eso la hace tan útil como riesgosa: más autonomía en un agente exige más cuidado.</p></div>
+<div class="c"><h3>2 · Nueva amenaza real</h3><p>El caso de España confirma que ya no basta con protegerse de hackers humanos: los agentes de IA deben entrar al análisis de riesgos.</p></div>
+<div class="c"><h3>3 · Ley sí, auditoría no</h3><p>En Perú la ley ya existe y empresas como Movistar y Claro dicen cumplirla, pero esas declaraciones no reemplazan una auditoría independiente.</p></div></div>
+<p><b>Nuestra idea central:</b> la privacidad no frena la innovación, la sostiene. Una IA confiable es la que protege los datos desde el diseño, no la que los recolecta sin límites.</p>
+<aside class="n">Cerrar con la frase: "Proteger los datos no es un obstáculo para la IA, es lo que permite confiar en ella." Lanzar una pregunta al público y dejar 2 min.</aside></section>
+
+<section class="slide"><div class="num">10</div><div class="k">Fuentes</div><h2>Dónde lo verificamos</h2>
+<ol class="s">
+<li>AEPD (2026). Primera notificación de una brecha causada por un ataque ejecutado mediante un agente de IA.<br><a href="https://www.aepd.es/prensa-y-comunicacion/blog/primera-notiviacion-brecha-datos-personales-causada-por-ataque-ejecutado-mediante-agente-ia" target="_blank">aepd.es/prensa-y-comunicacion/blog/primera-notificacion-...</a></li>
+<li>PCM (2025). D.S. N.° 115-2025-PCM, Reglamento de la Ley 31814. El Peruano.<br><a href="https://busquedas.elperuano.pe/dispositivo/NL/2436426-1" target="_blank">busquedas.elperuano.pe/dispositivo/NL/2436426-1</a></li>
+<li>Congreso del Perú (2011). Ley N.° 29733, Ley de Protección de Datos Personales.<br><a href="https://www.congreso.gob.pe/Docs/DGP/DIDP/files/ley_29733.pdf" target="_blank">congreso.gob.pe/.../ley_29733.pdf</a></li>
+<li>Espinoza Montero, A. (2026). La IA en el Perú: ciclo de vida del dato personal. Derecho &amp; Sociedad, N.° 66, PUCP.<br><a href="https://revistas.pucp.edu.pe/index.php/derechoysociedad/article/view/34741" target="_blank">revistas.pucp.edu.pe/.../derechoysociedad/article/view/34741</a></li>
+<li>Infobae (2025). Reglamento de IA en Perú: claves para entender la ley.<br><a href="https://www.infobae.com/peru/2025/09/10/reglamento-de-ia-en-peru-claves-para-entender-la-ley-que-promueve-el-uso-de-la-inteligencia-artificial-para-el-desarrollo/" target="_blank">infobae.com/peru/.../reglamento-de-ia-en-peru...</a></li>
+<li>Movistar Perú. Centro de Transparencia y Privacidad.<br><a href="https://centrodetransparencia.movistar.com.pe/" target="_blank">centrodetransparencia.movistar.com.pe</a></li>
+<li>América Móvil / Claro Perú. Legal y regulatorio, derechos ARCO.<br><a href="https://www.claro.com.pe/legal-y-regulatorio/derechos-arco/" target="_blank">claro.com.pe/legal-y-regulatorio/derechos-arco</a></li></ol>
+<aside class="n">Mencione que las políticas de Movistar y Claro son fuentes corporativas. Los links completos están aquí por si alguien quiere verificarlos en vivo.</aside></section>
+
+<nav><button id="p">←</button><span id="pg"></span><button id="x">→</button></nav>
+<script>
+var s=[].slice.call(document.querySelectorAll('.slide')),i=0;
+function go(n){i=Math.max(0,Math.min(s.length-1,n));s.forEach(function(e,k){e.classList.toggle('on',k===i)});document.getElementById('pg').textContent=(i+1)+' / '+s.length+' · N = notas'}
+document.getElementById('p').onclick=function(){go(i-1)};
+document.getElementById('x').onclick=function(){go(i+1)};
+document.addEventListener('keydown',function(e){if(e.key==='ArrowRight'||e.key===' ')go(i+1);if(e.key==='ArrowLeft')go(i-1);if(e.key==='n'||e.key==='N')document.body.classList.toggle('notes')});
+go(0);
+</script></body></html>
