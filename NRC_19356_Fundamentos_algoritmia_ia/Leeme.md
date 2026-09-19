@@ -1,7 +1,8 @@
-## BLOOKET   
+<img width="1806" height="870" alt="image" src="https://github.com/user-attachments/assets/85c6e427-12c5-4e45-bde3-2c05d3e4135e" />## BLOOKET   
 
 18-09-2026  
-![Uploading image.png…]()
+<img width="1856" height="833" alt="image" src="https://github.com/user-attachments/assets/57185b25-5870-4367-b499-2b88de4f5773" />
+
 
 
 
