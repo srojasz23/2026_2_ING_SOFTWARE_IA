@@ -1,5 +1,9 @@
 ## BLOOKET   
 
+18-09-2026  
+![Uploading image.png…]()
+
+
 
 15-09-2026   
 
