@@ -2,7 +2,8 @@
 Tema: Aplicación de Inteligencia Artificial y Machine Learning sobre un conjunto de datos real   
 Propósito
 
-Desarrollar una propuesta de Inteligencia Artificial a partir de un problema real, utilizando un dataset seleccionado por el equipo y aplicando los conocimientos desarrollados durante los cursos.
+Desarrollar una propuesta de Inteligencia Artificial a partir de un problema real, utilizando un dataset seleccionado por el equipo y aplicando los conocimientos desarrollados durante los cursos.   
+ENTREGA: 03 de diciembre 2026 
 
 **Requerimientos**
   * Seleccionar un problema real relacionado con un área de interés.
